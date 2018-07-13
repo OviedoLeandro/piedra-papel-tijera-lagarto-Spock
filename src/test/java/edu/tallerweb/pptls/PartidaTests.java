@@ -13,7 +13,6 @@ public class PartidaTests {
 
 		assertEquals("Spock vaporiza piedra",
 				Resultado.GANA, jugadorUno.jugarCon(jugadorDos));
-
 	}
 
 }
